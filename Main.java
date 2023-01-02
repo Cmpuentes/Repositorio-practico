@@ -4,5 +4,10 @@ public class Main {
 
         Operaciones operaciones = new Operaciones();
         System.out.println(operaciones.suma(3, 4));
+
+        System.out.println("======================= ");
+        
+        //Operación resta
+        System.out.println(operaciones.resta(5, 3));
     }
 }
