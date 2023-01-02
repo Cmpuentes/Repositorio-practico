@@ -1,5 +1,5 @@
 public class Operaciones {
-
+//Aprendiendo java para aplicar en openbootcamp
     public double suma(double a, double b){
         return a + b;
     }
