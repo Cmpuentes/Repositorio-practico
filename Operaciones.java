@@ -4,8 +4,8 @@ public class Operaciones {
         return a + b;
     }
 
-    public double resta(double a, double b){
-        return a - b;
+    public double resta(double x, double y){
+        return x - y;
     }
 
     public double multiplica(double a, double b){
